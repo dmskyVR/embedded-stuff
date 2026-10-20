@@ -4,9 +4,9 @@
 #include "stm32c0xx.h"
 #include "system_stm32c0xx.h"
 
-#define u32 uint32_t
-#define u16 uint16_t
-#define u8 uint8_t
+typedef uint32_t u32;
+typedef uint16_t u16;
+typedef uint8_t u8;
 
 #define RGB_RED         GPIO_BSRR_BS0
 #define RGB_GREEN       GPIO_BSRR_BS7
