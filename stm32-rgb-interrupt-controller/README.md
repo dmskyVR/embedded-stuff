@@ -37,4 +37,5 @@ interacting with hardware registers.
 
 ## Demo
 
-[Video coming soon]
+https://github.com/user-attachments/assets/376bd756-2a62-4296-af97-00b984790f4e
+
